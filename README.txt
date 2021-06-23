@@ -1,5 +1,6 @@
 Víctor Forés
 
+Hora actual: 12:11h
 
 Nombre: Victor
 Apellidos: Forés Rosell
